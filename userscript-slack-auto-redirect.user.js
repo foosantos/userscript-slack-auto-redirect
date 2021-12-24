@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  If you are a Slack browser user, this userscript will allow you to auto-redirect without Slack asking if you want to open on the desktop app.
 // @author       felipelousantos
+// @updateURL    https://github.com/felipelousantos/userscript-slack-auto-redirect/raw/main/userscript-slack-auto-redirect.user.js
 // @match        https://*.slack.com/archives/*
 // @icon         https://www.google.com/s2/favicons?domain=slack.com
 // @grant        none
